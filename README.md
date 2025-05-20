@@ -71,13 +71,8 @@ Filters and slicers used for dynamic exploration of gender, season, year, countr
 
 # 🧰 Tools & Technologies
 ![image](https://github.com/user-attachments/assets/abd63d75-65a4-4c4b-bc41-bdfe2aecc911)
-
-Power BI Desktop (latest version recommended)
 ![image](https://github.com/user-attachments/assets/f534149c-00b2-4554-b931-2afee3a8cd9a)
 ![image](https://github.com/user-attachments/assets/b42fbf36-515b-4bb2-9bb4-5d6d41f34612)
 
 
 
-DAX for calculated measures and KPIs
-
-Relational data modeling and ER design
