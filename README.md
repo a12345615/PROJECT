@@ -14,14 +14,16 @@ Event and medal analysis by sport and region
 Evolution of the Olympic Games (Summer vs Winter) Data Model
 
 # 📚 Key tables used:
-![image](https://github.com/user-attachments/assets/b8ee9033-7a70-4f63-89d4-ecbc887d616c)
+![image](https://github.com/user-attachments/assets/8f7a02f3-bc41-45f7-b569-2deaaa6a1ce5)
+
 
 Sport, Event, Games, City, NOC Region, Person, Games Competitor, Medal, Competitor Event
 
 Relationships are modeled through a structured ER diagram to facilitate meaningful joins and visual interactions.
 
 # 📈 Key Analyses & Insights
-![image](https://github.com/user-attachments/assets/9d3550b6-2aa3-44c9-b0d7-d0d0b616722f)
+![image](https://github.com/user-attachments/assets/ca6c5d67-8376-44e0-87d7-05d400f6b821)
+![image](https://github.com/user-attachments/assets/3230c38e-393d-4ca6-9a5c-6709452837ab)
 
 Seasonal Distribution
 
@@ -62,7 +64,8 @@ Global Reach
 Medals distributed across 200+ regions/NOCs
 
 # 🌍 Scope of Analysis
-![image](https://github.com/user-attachments/assets/43028c1c-269f-42b2-a675-0c4b39f942aa)
+![image](https://github.com/user-attachments/assets/665811ca-eb77-4764-94e6-8ccfe74e340d)
+
 Covers both Summer and Winter Olympics
 
 Time frame: From 1896 to the latest available edition
@@ -70,10 +73,13 @@ Time frame: From 1896 to the latest available edition
 Filters and slicers used for dynamic exploration of gender, season, year, country, and sport
 
 # 🧰 Tools & Technologies
-
-![image](https://github.com/user-attachments/assets/d78bb7c1-99eb-47d6-a2d2-0bfeee9882da)
+![image](https://github.com/user-attachments/assets/abd63d75-65a4-4c4b-bc41-bdfe2aecc911)
 
 Power BI Desktop (latest version recommended)
+![image](https://github.com/user-attachments/assets/f534149c-00b2-4554-b931-2afee3a8cd9a)
+![image](https://github.com/user-attachments/assets/b42fbf36-515b-4bb2-9bb4-5d6d41f34612)
+
+
 
 DAX for calculated measures and KPIs
 
