@@ -22,7 +22,6 @@ Relationships are modeled through a structured ER diagram to facilitate meaningf
 # 📈 Key Analyses & Insights
 ![image](https://github.com/user-attachments/assets/ca6c5d67-8376-44e0-87d7-05d400f6b821)
 ![image](https://github.com/user-attachments/assets/3230c38e-393d-4ca6-9a5c-6709452837ab)
-
 Seasonal Distribution
 
 56.86% Summer vs 43.14% Winter Olympic Games
