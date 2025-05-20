@@ -15,8 +15,6 @@ Evolution of the Olympic Games (Summer vs Winter) Data Model
 
 # 📚 Key tables used:
 ![image](https://github.com/user-attachments/assets/8f7a02f3-bc41-45f7-b569-2deaaa6a1ce5)
-
-
 Sport, Event, Games, City, NOC Region, Person, Games Competitor, Medal, Competitor Event
 
 Relationships are modeled through a structured ER diagram to facilitate meaningful joins and visual interactions.
@@ -65,7 +63,6 @@ Medals distributed across 200+ regions/NOCs
 
 # 🌍 Scope of Analysis
 ![image](https://github.com/user-attachments/assets/665811ca-eb77-4764-94e6-8ccfe74e340d)
-
 Covers both Summer and Winter Olympics
 
 Time frame: From 1896 to the latest available edition
