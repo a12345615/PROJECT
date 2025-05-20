@@ -1,9 +1,8 @@
 # SPORTS ANALYSIS
-SPORT-ANALYSIS
-📊Project Overview
+# 📊Project Overview
 This Power BI project provides a comprehensive analysis of the Olympic Games, focusing on the evolution of sports, events, and participants over time. It offers deep insights into gender distribution, country-wise performance, historical patterns, and medal distribution across editions.
 
-🎯Objective
+# 🎯Objective
 To explore and analyze the diversity, growth, and trends in Olympic sports from 1896 to the present, focusing on:
 
 Participation trends across sports and countries
@@ -14,14 +13,14 @@ Event and medal analysis by sport and region
 
 Evolution of the Olympic Games (Summer vs Winter) Data Model
 
-📚 Key tables used:
+# 📚 Key tables used:
 ![image](https://github.com/user-attachments/assets/b8ee9033-7a70-4f63-89d4-ecbc887d616c)
 
 Sport, Event, Games, City, NOC Region, Person, Games Competitor, Medal, Competitor Event
 
 Relationships are modeled through a structured ER diagram to facilitate meaningful joins and visual interactions.
 
-📈 Key Analyses & Insights
+# 📈 Key Analyses & Insights
 ![image](https://github.com/user-attachments/assets/9d3550b6-2aa3-44c9-b0d7-d0d0b616722f)
 
 Seasonal Distribution
@@ -62,7 +61,7 @@ Global Reach
 
 Medals distributed across 200+ regions/NOCs
 
-🌍 Scope of Analysis
+# 🌍 Scope of Analysis
 ![image](https://github.com/user-attachments/assets/43028c1c-269f-42b2-a675-0c4b39f942aa)
 Covers both Summer and Winter Olympics
 
@@ -70,7 +69,7 @@ Time frame: From 1896 to the latest available edition
 
 Filters and slicers used for dynamic exploration of gender, season, year, country, and sport
 
-🧰 Tools & Technologies
+# 🧰 Tools & Technologies
 
 ![image](https://github.com/user-attachments/assets/d78bb7c1-99eb-47d6-a2d2-0bfeee9882da)
 
